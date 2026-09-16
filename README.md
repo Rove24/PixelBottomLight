@@ -5,8 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 一个轻量级的现代化 Xposed / LSPosed 模块，将一加、OPPO 等搭载 ColorOS / OxygenOS 设备的单色语音助手侧滑光弧，替换为 Google Pixel 原生的经典四色光流（蓝、红、黄、绿）。
-<img width="1180" height="2560" alt="IMG_20260916_095233" src="https://github.com/user-attachments/assets/32618883-4d49-47f7-a9ae-1fbb2e470570" />
-
 ---
 
 ## ✨ 特性
