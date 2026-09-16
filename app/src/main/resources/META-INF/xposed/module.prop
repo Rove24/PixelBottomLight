@@ -1,0 +1,9 @@
+name=Pixel 底色
+version=0.6
+versionCode=6
+author=Rove24
+description=将一加/ColorOS等设备的单色语音助手滑动光弧替换为Pixel原生Google经典四色光流与完整聚拢动效
+minApiVersion=102
+targetApiVersion=102
+staticScope=true
+autoHotReload=true
